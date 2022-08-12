@@ -29,7 +29,7 @@ app.post("/webhook", (req: Request, res: Response, next:NextFunction) => {
           },
           {
             "type": "text",
-            "text": "May I help you??"
+            "text": "May I help you."
           }
         ]
       })
